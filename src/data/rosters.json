@@ -1,0 +1,92 @@
+[
+  {
+    "name": "杨汉升",
+    "title": "主唱",
+    "role": "Vocal",
+    "gender": "M",
+    "hero": "YHS_bio.jpg",
+    "labels": ["浙江大学", "博士生"],
+    "status": "online",
+    "description": "舞台相声表演艺术家 杨-尼古拉斯-大黄 之父"
+  },
+  {
+    "name": "杨书鉴",
+    "title": "吉他",
+    "role": "Rhythm Guitar",
+    "gender": "M",
+    "hero": "YSJ_bio.jpg",
+    "labels": ["浙江大学", "硕士生"],
+    "status": "online",
+    "description": "乐队气氛组 舞台蹦迪爱好者 音色调节大师"
+  },
+  {
+    "name": "雷家坤",
+    "title": "吉他",
+    "role": "Lead Guitar",
+    "gender": "M",
+    "hero": "LJK_bio.jpg",
+    "labels": ["浙江大学", "博士生"],
+    "status": "online",
+    "description": "Ibanez flying fingers大赛季军 土味艺术掌门人"
+  },
+  {
+    "name": "应舒悦",
+    "title": "键盘",
+    "role": "Keyboard",
+    "gender": "F",
+    "hero": "YSY_bio.jpg",
+    "labels": ["浙江大学", "博士生"],
+    "status": "online",
+    "description": "曾在古典音乐中拥有过短暂的高深造诣 现擅长离调音乐"
+  },
+  {
+    "name": "贾昊",
+    "title": "贝斯",
+    "role": "Bass",
+    "gender": "M",
+    "hero": "JH_bio.jpg",
+    "labels": ["浙江大学", "博士生"],
+    "status": "online",
+    "description": "琴行打工仔 只要能发出声音的器乐就没有不会的 声乐文盲"
+  },
+  {
+    "name": "胡洽",
+    "title": "鼓手",
+    "role": "Drummer",
+    "gender": "M",
+    "hero": "HQ_bio.jpg",
+    "labels": ["浙江大学", "硕士生"],
+    "status": "online",
+    "description": "爱健身却又不长壮的朵朵红人 喜好使用厨具进行架子鼓装配"
+  },
+  {
+    "name": "吴瀚",
+    "title": "吉他手",
+    "role": "Rhythm Guitar",
+    "gender": "M",
+    "hero": "unknown.png",
+    "labels": ["西湖大学", "博士生"],
+    "status": "offline",
+    "description": "乐理宗师 木琴扫弦王 执着的爱情追随者"
+  },
+  {
+    "name": "张雨绮",
+    "title": "鼓手",
+    "role": "Drummer",
+    "gender": "F",
+    "hero": "unknown.png",
+    "labels": ["XX大学", "硕士生"],
+    "status": "offline",
+    "description": "乐队小可爱 鼓棒具有杀伤性 自己的东西队友搬"
+  },
+  {
+    "name": "欧阳煜东",
+    "title": "吉他手",
+    "role": "Rhythm Guitar",
+    "gender": "M",
+    "hero": "unknown.png",
+    "labels": ["浙江大学", "硕士生"],
+    "status": "offline",
+    "description": "闷骚的指弹大师"
+  }
+]
